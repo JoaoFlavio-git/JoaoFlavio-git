@@ -3,9 +3,6 @@ João Flávio Dev
 
   
   <h2 align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Null3000.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
-
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
@@ -47,38 +44,3 @@ João Flávio Dev
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
 ![icons8-stack-overflow](https://user-images.githubusercontent.com/76852813/172722286-8f3ffc2b-593a-4670-9e9f-c77154f6763c.svg)
 ![icons8-bash](https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg)
-
-
-
-
-### MISC
-
-<p>
-	
-![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
-![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg)
-
-
-
-
-
-	
-## GitHub Stats
-
-
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=null3000&theme=react-dark&hide_border=true&area=true) |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&theme=algolia)              | 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=null3000&theme=algolia)                    | 
-    
-
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&langs_count=8&theme=algolia)
-	
-![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
-
-###### Some icons courtesy of [icons8](https://icons8.com/)
-
-------
