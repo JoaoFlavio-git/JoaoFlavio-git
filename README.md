@@ -1,5 +1,5 @@
 <h1 align="center">João Flávio Dev</h1>
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img height="180" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" />
 </div>
   
