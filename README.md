@@ -1,7 +1,7 @@
 <h1 align="center">João Flávio Dev</h1>
-<div align="center">
-    <img height="180" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" />
-</div>
+
+    <img height="180" align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" />
+
   
   <h2 align="center">
 
