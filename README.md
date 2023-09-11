@@ -2,15 +2,8 @@
 
     <img height="180" align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" />
 
-  
-  <h2 align="center">
-
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
-
-## My Tech Stack and Tools
-
 ### Programming Languages
-
+<h1 align="center">
 <p>
   
 
@@ -45,3 +38,13 @@
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
 ![icons8-stack-overflow](https://user-images.githubusercontent.com/76852813/172722286-8f3ffc2b-593a-4670-9e9f-c77154f6763c.svg)
 ![icons8-bash](https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg)
+
+</h1>
+
+<h2 align="center">
+
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
+## My Tech Stack and Tools
+
+
