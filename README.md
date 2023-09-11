@@ -1,6 +1,5 @@
 <h1 align="center">João Flávio Dev</h1>
 <h1 align="center">
-<img height="180" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" />
 
 ### Programming Languages
 <h1 align="center">
@@ -46,5 +45,8 @@
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
+
+<img height="180" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" />
+
 
 
