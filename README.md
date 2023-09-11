@@ -46,7 +46,6 @@
 
 ## My Tech Stack and Tools
 
-<img height="180" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" />
 
 
 
