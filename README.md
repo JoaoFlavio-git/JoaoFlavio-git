@@ -1,5 +1,4 @@
 <h1 align="center">João Flávio Dev</h1>
-<h1 align="center">
 
 ### Programming Languages
 <h1 align="center">
