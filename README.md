@@ -38,10 +38,3 @@
 ![icons8-bash](https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg)
 
 </h1>
-
-<h2 align="center">
-
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
-
-
-
